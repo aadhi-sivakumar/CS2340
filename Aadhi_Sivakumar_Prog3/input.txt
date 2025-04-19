@@ -1,0 +1,7 @@
+Give me a number between 1 and 100 (Type 0 to stop):
+Give me a second number between 
+ and 100 (Type 0 to stop):
+Adding squares from 
+ to 
+ITERATIVE:
+RECURSIVE:
